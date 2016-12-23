@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  Socket_server
+//
+//  Created by lihongfeng on 16/12/21.
+//  Copyright © 2016年 wanglei. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface AppDelegate : NSObject <NSApplicationDelegate>
+
+
+@end
+
